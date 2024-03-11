@@ -1,0 +1,1 @@
+Hi 👋 , my real name is Monty 😎 , I am trying to code a python txt adventure and have been told that I am going about it all the wrong way 😭 . If you have some time, I would love some helpo and guidance.
