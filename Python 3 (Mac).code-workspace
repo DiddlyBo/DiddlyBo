@@ -1,0 +1,17 @@
+{
+	"folders": [
+        {
+            "path": "Python 3 (mac) scripts"
+        }
+    ],
+	"settings": {	"python.condaPath": "/Users/monty/anaconda3/bin/conda",
+    "python.defaultInterpreterPath": "/Users/monty/anaconda3/bin/python",
+    "python.experiments.optInto": [
+        "pythonTerminalEnvVarActivation"
+    ],
+    "python.pythonPath": "/Users/monty/anaconda3/bin/python",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.activateEnvironment": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "material-icon-theme"}
+}
